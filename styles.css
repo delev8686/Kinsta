@@ -1,0 +1,25 @@
+/* styles.css */
+
+/* Customize the body background color */
+body {
+    background-color: #f0f0f0;
+}
+
+/* Customize the heading styles */
+h1 {
+    color: #007bff;
+    font-size: 28px;
+}
+
+/* Customize paragraph text */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Customize links */
+a {
+    color: #ff4500;
+    text-decoration: none;
+}
+
