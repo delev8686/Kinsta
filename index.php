@@ -65,7 +65,7 @@
 				value="Kinsta_Love"/>
 		
 		<input type="submit" name="button2"
-				value="Which_is_the_best_company?"/>
+				value="Best_company?"/>
 	</form>
 </body>
 
