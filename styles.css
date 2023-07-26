@@ -23,3 +23,25 @@ a {
     text-decoration: none;
 }
 
+/* Styles for the form */
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Styles for the buttons */
+input[type="submit"] {
+  width: 200px;
+  height: 50px;
+  font-size: 18px;
+  background-color: #4CAF50;
+  color: #ffffff;
+  border: none;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
